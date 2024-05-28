@@ -1,4 +1,4 @@
-package com.ms.email.dtos;
+package com.ms.user.dtos;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;

@@ -1,6 +1,6 @@
-package com.ms.email.repositories;
+package com.ms.user.repositories;
 
-import com.ms.email.models.User;
+import com.ms.user.models.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.UUID;
